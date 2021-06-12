@@ -1,0 +1,14 @@
+E:\TCPClient\bin\Debug\TCPClient.exe.config
+E:\TCPClient\bin\Debug\TCPClient.exe
+E:\TCPClient\bin\Debug\TCPClient.pdb
+E:\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+E:\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+E:\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+E:\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+E:\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+E:\TCPClient\obj\Debug\TCPClient.exe
+E:\TCPClient\obj\Debug\TCPClient.pdb
+E:\TCPClient\bin\Debug\TCPClient.exe.manifest
+E:\TCPClient\bin\Debug\TCPClient.application
+E:\TCPClient\obj\Debug\TCPClient.exe.manifest
+E:\TCPClient\obj\Debug\TCPClient.application
